@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "tylerprestonholt",
-  "license": "ISC",
+  "license": "",
   "devDependencies": {
     "typescript": "^4.9.3"
   }
